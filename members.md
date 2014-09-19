@@ -38,7 +38,7 @@ repositories, and checking on IRC
 ## Student Roster
 
 Format:
-```| <Your Name> | [<GitHub Username>](https://github.com/<GitHub Username>) | <Note Here> |```
+```| Girija | [girijasameera](https://github.com/girijasameera) | I know C.I am now learning C++.I wish to gain some experience in coding. |```
 
 
 | **Name** | **GitHub** | **Notes** |
